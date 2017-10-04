@@ -22,3 +22,9 @@
 [submodule "matlab-mhs5200"]
 	path = matlab-mhs5200
 	url = git@github.com:jed-frey/matlab-mhs5200.git
+[submodule "matlab_junit_xml"]
+    path = matlab_junit_xml
+    url = git@github.com:jed-frey/matlab_junit_xml.git
+[submodule "matlab_mflakes"]
+    path = matlab_mflakes
+    url = git@github.com:jed-frey/matlab_mflakes.git
