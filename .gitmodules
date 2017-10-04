@@ -1,0 +1,24 @@
+[submodule "matlab_saveppt2"]
+	path = matlab_saveppt2
+	url = git@github.com:jed-frey/matlab_saveppt2.git
+[submodule "matlab_filelist"]
+	path = matlab_filelist
+	url = git@github.com:jed-frey/matlab_filelist.git
+[submodule "matlab_gitextensions"]
+	path = matlab_gitextensions
+	url = git@github.com:jed-frey/matlab_gitextensions.git
+[submodule "matlab_pushover"]
+	path = matlab_pushover
+	url = git@github.com:jed-frey/matlab_pushover.git
+[submodule "matlab_projecttools"]
+	path = matlab_projecttools
+	url = git@github.com:jed-frey/matlab_projecttools.git
+[submodule "matlab_getPosition"]
+	path = matlab_getPosition
+	url = git@github.com:jed-frey/matlab_getPosition.git
+[submodule "matlab_N-bar"]
+	path = matlab_N-bar
+	url = git@github.com:jed-frey/matlab_N-bar.git
+[submodule "matlab-mhs5200"]
+	path = matlab-mhs5200
+	url = git@github.com:jed-frey/matlab-mhs5200.git
